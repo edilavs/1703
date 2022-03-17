@@ -1,0 +1,13 @@
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.AssemblyInfo.cs
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.exe
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.deps.json
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.runtimeconfig.json
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.dll
+C:\Users\99470\source\repos\HWork1703\HWork1703\bin\Debug\netcoreapp3.1\HWork1703.pdb
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.dll
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.pdb
+C:\Users\99470\source\repos\HWork1703\HWork1703\obj\Debug\netcoreapp3.1\HWork1703.genruntimeconfig.cache
